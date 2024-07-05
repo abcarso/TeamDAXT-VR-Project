@@ -9,3 +9,5 @@ We believe that VR is suited to the task by:
 - Utilizing spacial memory to better remember vocabulary
 - Making vocabulary more intutive by interacting with the objects described
 - Making use of virtual humans to reliably practice concepts
+
+This project ultimately won the award for best in class.
