@@ -11,3 +11,5 @@ We believe that VR is suited to the task by:
 - Making use of virtual humans to reliably practice concepts
 
 This project ultimately won the award for best in class.
+
+*This repository was forked from the original project*
