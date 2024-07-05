@@ -1,4 +1,4 @@
-# DAXT
+# DAXT VR Project
 DAXT VR group project
 
 This semester long group project was made in Unity for a VR class at Clemson University.
